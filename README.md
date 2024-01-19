@@ -1,6 +1,6 @@
 # Statistical Mechanics of Neural Network
 
-This project was done up by Jerry Qu and Lucas Seah and is part of our final project for PH7002 Concepts in Statistical Mechanics. Our project aims to understand Recurrent Neural Network (RNN) and how the Spin-Glass Model from Statistical Mechanics was used to create the first RNN. This is because the Ising model was a throughly studied area in our module and we saw that its use was motivated by mathematicians and computer scientists to solve the k-SAT problem in computer science. few We employed techniques from both statistical mechanics and computer science to recreate some results that Huang have obtained in his book, _Statistical Mechanics of Neural Networks_. \
+This project was done up by Jerry Qu and Lucas Seah and is part of our final project for PH7002 Concepts in Statistical Mechanics. Our project aims to understand Recurrent Neural Network (RNN) and how the Spin-Glass Model from Statistical Mechanics was used to create the first RNN. This is because the Ising model was a throughly studied area in our module and we saw that its use was motivated by mathematicians and computer scientists to solve the k-SAT problem in computer science. few We employed techniques from both statistical mechanics and computer science to recreate some results that Huang have obtained in his book, _Statistical Mechanics of Neural Networks_.
 
 ## Features
 This project aims to simulate an actual neutral network using theory from statistical mechanics, thus many features are implemented to display them.
