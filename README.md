@@ -18,6 +18,10 @@ Implemented the Metropolis Algorithm from Markov Chain Monte Carlo and wrote fun
 
 Functions to implement message passing for the inverse Ising problem to reconstruct the feature vectors
 
+### Message Passing
+
+Functions to implement message passing for the inverse Ising problem to reconstruct the feature vectors
+
 ## Contents
 
 To help navigate this repositry, folders are added.
